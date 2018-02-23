@@ -1,0 +1,8 @@
+.DS_Store
+*.bib
+*.pdf
+Makefile
+conf.yaml
+secret.py
+client_secret*.json
+venv
